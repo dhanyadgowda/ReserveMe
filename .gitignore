@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Build outputs
+/build
+/dist
+
+# React build artifacts
+/Frontend/build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
