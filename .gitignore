@@ -1,19 +1,19 @@
-# Node.js
+# Node modules
 node_modules/
 
-# Logs
-*.log
-
-# Environment variables
+# Environment variables file
 .env
 
-# Build outputs
-/build
-/dist
-
-# React build artifacts
-/Frontend/build/
-
-# OS-specific files
+# System files
 .DS_Store
 Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Other IDE or editor config files
+.idea/
+
+# Log files
+*.log
+.env
